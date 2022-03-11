@@ -5,4 +5,4 @@ HTML e CSS
 
 ## Links úteis:
 [Bootstrap](https://getbootstrap.com/)<br>
-[w3schools](https://www.w3schools.com/html/html_examples.asp)
+[Dio](https://web.dio.me/)
